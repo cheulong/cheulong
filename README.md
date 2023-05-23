@@ -26,7 +26,7 @@
  ### Get In Touch! 🤭
  
 [![Linkedin Badge](https://img.shields.io/badge/-CheulongSear-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cheulongsear/)](https://www.linkedin.com/in/cheulongsear/)
-[![Medium Badge](https://img.shields.io/badge/-SearCheulong-white?style=flat-square&logo=Medium&logoColor=black&link=https://searcheulong.medium.com/)](https://searcheulong.medium.com/)
+[![Medium Badge](https://img.shields.io/badge/-SearCheulong-white?style=flat-square&logo=Medium&logoColor=black&link=https://searcheulong.medium.com/)](https://medium.com/@searcheulong)
 [![Github Badge](https://img.shields.io/badge/-cheulong-grey?style=flat-square&logo=Github&logoColor=white&link=https://github.com/cheulong)](https://github.com/cheulong)
 [![Gmail Badge](https://img.shields.io/badge/-CheulongSear-white?style=flat-square&logo=Gmail&logoColor=red&link=mailto:searcheulong@gmail.com)](mailto:searcheulong@gmail.com)
 
