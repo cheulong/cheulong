@@ -2,9 +2,10 @@
 
 - 👋 Hi, I’m Cheulong Sear
 - 👀 I’m interested in learning new languages and coding
-- 🌱 I’m currently learning japanese and data science 
+- 🌱 I’m currently learning cloud and devops.
 - 💞️ I’m looking to collaborate on any project that allow newbie to start and learn. I always want to learn new thing.
 - 📫 How to reach me 📫searcheulong@gmail.com
+- [Portfolio](https://cheulongsear.dev/)
 <!---
 ### Technologies and Tools I use:
 
@@ -26,9 +27,9 @@
  ### Get In Touch! 🤭
  
 [![Linkedin Badge](https://img.shields.io/badge/-CheulongSear-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cheulongsear/)](https://www.linkedin.com/in/cheulongsear/)
-[![Medium Badge](https://img.shields.io/badge/-SearCheulong-white?style=flat-square&logo=Medium&logoColor=black&link=https://searcheulong.medium.com/)](https://medium.com/@searcheulong)
+[![DEV.TO Badge](https://img.shields.io/badge/Cheulong_Sear-black?style=flat-square&logo=devdotto&link=https%3A%2F%2Fdev.to%2Fcheulong)](https://dev.to/cheulong)
 [![Github Badge](https://img.shields.io/badge/-cheulong-grey?style=flat-square&logo=Github&logoColor=white&link=https://github.com/cheulong)](https://github.com/cheulong)
-[![Gmail Badge](https://img.shields.io/badge/-CheulongSear-white?style=flat-square&logo=Gmail&logoColor=red&link=mailto:searcheulong@gmail.com)](mailto:searcheulong@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Cheulong_Sear-white?style=flat-square&logo=Gmail&logoColor=red&link=mailto:searcheulong@gmail.com)](mailto:searcheulong@gmail.com)
 
 <!---
 cheulong/cheulong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
